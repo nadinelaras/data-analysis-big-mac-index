@@ -42,9 +42,9 @@ https://public.tableau.com/views/big_mac_dashboard/ObjectiveAnalysis1?:language=
 
 ## Dashboard Preview
 
-![Dashboard Overview 1](dashboard_overview_1.png)
-![Dashboard Overview 2](dashboard_overview_2.png)
-![Dashboard Overview 3](dashboard_overview_3.png)
+![Dashboard Overview 1](Screenshot (1942).png)
+![Dashboard Overview 2](Screenshot (1943).png)
+![Dashboard Overview 3](Screenshot (1944).png)
 
 ## AI Attribution/Acknowledgements
 
